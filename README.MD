@@ -1,2 +1,2 @@
-# 0x00. Vagrant
+# Holberton School - Zero Day Project
 First project for Holberton School.
